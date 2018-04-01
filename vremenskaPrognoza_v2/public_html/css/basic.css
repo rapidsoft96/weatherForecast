@@ -1,0 +1,13 @@
+body {
+    padding: 15px;
+}
+
+.artist-result {
+    border: 1px solid #888;
+    padding: 5px;
+    margin: 5px;
+}
+
+.artist-result:nth-child(even) {
+    background-color: rgba(200,200,200,0.3);
+}
